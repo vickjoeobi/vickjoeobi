@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Mobile App with Ionic, React[Personal Website] and C#(https://vickjoe.com)
-- 🌱 I’m currently learning ... React He/Him
+- 🌱 I’m currently learning ... VUE JS He/Him
 - 👯 I’m looking to collaborate on ... Angular & C#
 - 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... Anything
