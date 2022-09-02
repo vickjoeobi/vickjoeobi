@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Web 3 Applications, Solution Architect, [Personal Website] and C#(https://vickjoe.tech)
-- 🌱 I’m currently learning ... Computer Vision He/Him
-- 👯 I’m looking to collaborate on ... Web 3 
-- 🤔 I’m looking for help with ... Computer Visiion
+- 🔭 I’m currently working on ... Healthcare Application
+- 🌱 I’m currently learning ... Machine Learning
+- 👯 I’m looking to collaborate on ... Technical Writing, Community, & Web 3
+- 🤔 I’m looking for help with ... ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Personal Website](https://vickjoe.tech)
+- 📫 How to reach me: ... [Personal Website](https://vickjoe.tech) or Twitter](https://twitter.com/IamVickjoe)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love cooking
 -->
