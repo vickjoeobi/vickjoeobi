@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**Dont worry, my profile is stale. I will update it when I have the time :).**
+
 
 
 Here are some ideas to get you started:
